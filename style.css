@@ -1,0 +1,38 @@
+html {
+  font-family: 'Calibri', sans-serif;
+}
+nav {
+  color: #339966;
+  margin: 30px auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+body {
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: #339966;
+}
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px #c0c0c0;
+  font-family: 'Calibri', sans-serif;
+  font-size: 40px;
+}
+p {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  text-shadow: 2px 2px #c0c0c0;
+}
+#banner {
+  height: 500px;
+  background: linear-gradient(#339966, #ccffcc) fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
